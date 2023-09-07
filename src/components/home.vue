@@ -9,19 +9,19 @@
           </div>
         </div>
         <div class="text-center">
-          <h1 class="text-4xl font-bold tracking-tight text-secondary sm:text-6xl">AD& Co Consulting Agency</h1>
+          <h1 class="text-4xl font-bold tracking-tight text-secondary sm:text-6xl">AD&Co Consulting Agency</h1>
           <p class="mt-6 text-lg leading-8 text-black">Bien communiquer c’est mieux communiquer <br>
             Mieux communiquer c est créer de la pérennité<br>
             Tout est une question de jonction</p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
-            <a href="#" class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Prendre rendez-vous</a>
+            <a href="/contact" class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Prendre rendez-vous</a>
             <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
           </div>
         </div>
       </div>
     </div>
     <div class="right bg-white flex ">
-      <img  src="@/assets/logo%20arriere%20transparent.png" alt="">
+      <img  src="@/assets/logoTransparent.png" alt="">
     </div>
   </div>
 
