@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="right bg-white flex ">
-      <img  src="@/assets/logo%20arriere%20transparent.svg" alt="">
+      <img  src="@/assets/logo%20arriere%20transparent.png" alt="">
     </div>
   </div>
 
@@ -105,7 +105,7 @@ import { CheckIcon, LockClosedIcon, ServerIcon } from '@heroicons/vue/20/solid'
   width: 30%;
 }
 .right img{
-  width: 30em;
+height: 70%;
 }
 
 </style>
