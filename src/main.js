@@ -5,6 +5,7 @@ import App from './App.vue'
 import {createRouter, createWebHistory} from "vue-router";
 import Home from "@/components/home.vue";
 import Contact from "@/components/contact.vue";
+import NosServices from "@/components/nosServices.vue";
 
 const routes = [
     {
@@ -12,6 +13,9 @@ const routes = [
     } ,
     {
         path: '/contact' , component: Contact
+    } ,
+    {
+        path: '/nosServices' , component: NosServices
     } ,
 ]
 
