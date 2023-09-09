@@ -20,8 +20,8 @@
         </div>
       </div>
     </div>
-    <div class="right mr-4 bg-white flex">
-      <video autoplay loop muted>
+    <div class="right mr-4 bg-white flex ">
+      <video class="h-60" autoplay loop muted>
         <source src="@/assets/AD.mp4" type="video/mp4">
         Votre navigateur ne prend pas en charge la lecture de vidéos.
       </video>
