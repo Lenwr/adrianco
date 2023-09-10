@@ -40,6 +40,5 @@ const navigation = [
   { name: 'Accueil', href: '/', current: true },
   { name: 'Nos services', href: '/nosServices', current: false },
   { name: 'Contact', href: '/contact', current: false },
-  { name: 'test', href: '/test', current: false },
 ]
 </script>

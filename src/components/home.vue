@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="right mr-4 bg-white flex ">
-      <video class="h-60" autoplay loop muted>
+      <video  autoplay loop muted>
         <source src="@/assets/AD.mp4" type="video/mp4">
         Votre navigateur ne prend pas en charge la lecture de vidéos.
       </video>
@@ -49,7 +49,7 @@
         <div class="lg:pr-4">
           <div class="lg:max-w-lg">
             <p class="text-base font-semibold leading-7 text-secondary">Ensemble, nous mettons les bons leviers en place pour créer un succès considérable et perpétuel.</p>
-            <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+            <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"></h1>
           </div>
         </div>
       </div>
@@ -96,7 +96,7 @@
 <script setup>
 import { ref } from 'vue'
 const mobileMenuOpen = ref(false)
-import { CheckIcon, LockClosedIcon, ServerIcon } from '@heroicons/vue/20/solid'
+import { CheckIcon, } from '@heroicons/vue/20/solid'
 
 
 </script>

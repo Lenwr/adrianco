@@ -6,7 +6,6 @@ import {createRouter, createWebHistory} from "vue-router";
 import Home from "@/components/home.vue";
 import Contact from "@/components/contact.vue";
 import NosServices from "@/components/nosServices.vue";
-import Test from "@/components/test.vue";
 
 const routes = [
     {
@@ -18,9 +17,6 @@ const routes = [
     {
         path: '/nosServices' , component: NosServices
     } ,
-    {
-        path: '/test' , component: Test
-    }
 ]
 
 const router = createRouter(
